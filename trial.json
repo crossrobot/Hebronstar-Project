@@ -1,0 +1,29 @@
+{
+    "image info" : {
+        "description" : "헤브론스타 전기차 밸류체인 부품이미지 데이터셋",
+        "original content" : "Yes",
+        "date" : "2022-04-18",
+        "GPS" : "37.5090255999926, 127.04043608661311",
+        "contributor" : "Hebronstar" ,
+        "resolution" : "1920x1080",   
+        "focus distance" : "4.20mm",
+        "exposure time" : "1/4s",
+        "ISO" : 1250,
+        "identifier" : "./Preprocessed_data/preprocessed_image/모터_모터어셈블리_000001.jpeg"
+    },
+
+    "annotation" : {
+        "bbox" :  [{ "x" : 5,  "y" : 20, "width" : 467, "height" : 517}, 
+            {"x" : 34, "y" : 125, "width" : 87, "height" : 45 }],
+        "class" : ["모터 어셈블리", "모터 전원연결부"]
+    },
+
+    "additional" : {
+        "manufacturer" : "현대모비스",
+        "super category" : "모터",
+        "class" : ["모터 어셈블리", "모터 전원연결부"], 
+        "equipped_cars" : ["현대 IONIQ 5", "Volkswagen ID3"]
+    }
+}
+
+
